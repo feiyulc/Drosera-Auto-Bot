@@ -1,4 +1,4 @@
-# 💀 Drosera Auto Bot
+#  Drosera Auto Bot
 
 ![Drosera Deploy GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZzMms3a2h0NmdkMjl3eTU0ZG8wbDhiZndlbXg4enMyZ3BkYzVjZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RJKHjCuwOS9nq/giphy.gif)
 
